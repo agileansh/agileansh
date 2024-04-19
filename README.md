@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shanshu-gs
+- 👋 Hi, I’m Anshul (@agileansh)
 - 👀 I’m interested in FinTech, Product Management, BI
 - 🌱 I’m currently learning AWS GovCloud
 - 💞️ I’m looking to collaborate on Tablau, Alteryx, SQL, AWS
